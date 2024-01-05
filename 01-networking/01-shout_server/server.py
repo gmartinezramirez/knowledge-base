@@ -1,5 +1,5 @@
 """
-Objetive: understand four important socket-related system calks
+Objective: understand four important socket-related system calks
  - socket
  - bind
  - recvfrom
